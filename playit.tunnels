@@ -9,32 +9,32 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "changes-banking.gl.joinmc.link",
-          "assigned_srv": "changes-banking.gl.joinmc.link",
+          "assigned_domain": "middle-levels.gl.joinmc.link",
+          "assigned_srv": "middle-levels.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "48173333-bbf8-4fa1-bf0d-21b0207fe917",
+          "id": "e802feda-ad21-418e-a979-2d28aae749b7",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 44460,
-          "port_start": 44459,
+          "port_end": 48266,
+          "port_start": 48265,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-26T03:44:02.265649Z",
+      "created_at": "2024-06-29T06:53:10.806700Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "4f635ed6-08df-498c-95f7-383ae9f5b318",
+      "id": "00afe17d-92c0-4c6d-92fd-7fe0eddabf16",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "0bd18cb0-8e3d-4064-8ca7-405fe6b299cc",
+          "agent_id": "4ed123bd-4c8a-40b5-aa83-d7083435f03f",
           "agent_name": "zombie",
           "local_ip": "127.0.0.1",
           "local_port": 25565
@@ -49,56 +49,11 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
-          "assigned_domain": "society-ceremony.gl.at.ply.gg",
-          "assigned_srv": null,
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "f92b2cd2-1964-463c-b4e2-3c3ab736c9be",
-          "ip_hostname": "20.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 2819,
-          "port_start": 2818,
-          "region": "global",
-          "static_ip4": "147.185.221.20",
-          "tunnel_ip": "2602:fbaf:0:1::14"
-        },
-        "status": "allocated"
-      },
-      "created_at": "2024-06-26T03:55:06.405346Z",
-      "disabled_reason": null,
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "1ceaf620-b47d-4ae0-8828-85a4dea3118b",
-      "name": "unnamed",
-      "origin": {
-        "data": {
-          "agent_id": "0bd18cb0-8e3d-4064-8ca7-405fe6b299cc",
-          "agent_name": "zombie",
-          "local_ip": "127.0.0.1",
-          "local_port": 2818
-        },
-        "type": "agent"
-      },
-      "port_count": 1,
-      "port_type": "udp",
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "global",
-      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 0,
+    "desired": 0
   }
 }
